@@ -7,8 +7,8 @@ The program has three tracks which are:
 1. Data Analysis with Power BI
 2. Data Science and Machine Learning
 3. Power platform and low or no-code development
-To follow our learning track on Twitter, you can simply use the hashtag #30daysoflearning. If you wish to learn any of these, you may register for the program here.
-After 22 days of learning data analysis we were given a project which includes the airline Delay project, to which tbis submission is been made.
+To follow my learning track on Twitter, you can simply use the hashtag [#30daysoflearning](https://twitter.com/Zuba6Zubair/status/1535248722908659715?t=F-JK-pXETMhFmqZuUc6Uww&s=19). If you wish to learn any of these, you may register for the program [here](https://twitter.com/TheOyinbooke/status/1540103138568556544?t=TM-5ABXNOWpzcdEnPs9ijw&s=19)
+After 22 days of learning data analysis we were given a project which includes the airline Delay project, to which this submission is been made. You can assess the project questions [here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-storytelling-power-bi-project-airlines-analysis/ba-p/3564493).
 
 According to a 2010 report made by the US Federal Aviation Administration, the economic price of domestic flight delays entails a yearly cost of 32.9 billion dollars to passengers, airlines and other parts of the economy.
 More than half of that amount comes from the pockets of passengers who not only lose time waiting for their planes to leave, but they also miss connecting flights, spend money on food and have to sleep on hotel rooms while they're stranded.
@@ -26,7 +26,7 @@ This project seeks to answer the following questions:
 # Data Sourcing: 
 The original dataset was purposed for predicting whether a given flight will be delayed, given the information of the scheduled departure.
 However, my task is to understudy this data and tell a story about the entire flight experience.
-The data is available here.
+The data is available [here](https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv).
 
 # Data Transformation:
 The only Transformation made to the data was by changing the data type for the delay column to from numbers to logical data (true/false).
@@ -54,7 +54,7 @@ After the transformation of the data, the data now looks like the image below:
 # Findings and Recommendations: 
 After analyzing and building my visualizations the following are my findings and recommendations:
 1. Flights are more during the midweek, specifically on Wednesdays and are least on Fridays and weekends.
-2. The airlins with higher flight frequency also have high number of delays, even though they covered lesser distance.
+2. The airlines with higher flight frequency also have high number of delays, even though they covered lesser distance.
 3. There is a negative correlation between distance covered by flights and delay. This negative correlation may mean that the longer the distance to be covered by the airline, the more they avoid delays and the distance to be covered by the airline, the more they are relaxed and accommodate delays in flights.
 4. Delays were more associated with the popularity of the airline, this may man that the delays are due to waiting for and on-boarding of Passengers.
 
